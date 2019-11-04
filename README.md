@@ -1,3 +1,6 @@
+
+![A Blazing Diamond Alpha](https://images-ext-2.discordapp.net/external/yOjuTfpxNVAhqqNlXqg2ohFbTU9SLGCFDKQWl9ZGKYQ/https/storage.opensea.io/0x3910d4afdf276a0dc8af632ccfceccf5ba04a3b7/723-1572824995.png)
+
 # Mutant Monsters
 Everything relevant, technical, and related to Mutant Monsters
 
@@ -5,7 +8,7 @@ Website: https://mutant-monsters.com
 
 ## Mutant Mining
 
-Mutant mining how-to:
+#### Mutant mining how-to:
 
 ### 1. Get mineable ERC20 tokens.
 
@@ -25,7 +28,7 @@ Check the process using Etherscan and OpenSea
 - Your tokens going to M^3: https://etherscan.io/address/0x5b4eec7fa30fe4e8199f85440e72a5bed432aab2#tokentxns
 - The M^3 minting your new Mutants: https://etherscan.io/address/0x3910d4afdf276a0dc8af632ccfceccf5ba04a3b7
 - Your new Mutants in OpenSea: https://opensea.io/recent/mutantmonsters
-
+![A Blazing Diamond Alpha](https://images-ext-2.discordapp.net/external/yOjuTfpxNVAhqqNlXqg2ohFbTU9SLGCFDKQWl9ZGKYQ/https/storage.opensea.io/0x3910d4afdf276a0dc8af632ccfceccf5ba04a3b7/723-1572824995.png)
 It all worked? **Congratulations: You are the legal owner and guardian of freshly minted Mutant Monsters.**
 
 ### 5. Receive Mutants
