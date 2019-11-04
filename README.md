@@ -26,10 +26,11 @@ Check the process using Etherscan and OpenSea
 - The M^3 minting your new Mutants: https://etherscan.io/address/0x3910d4afdf276a0dc8af632ccfceccf5ba04a3b7
 - Your new Mutants in OpenSea: https://opensea.io/recent/mutantmonsters
 
+It all worked? **Congratulations: You are the legal owner and guardian of freshly minted Mutant Monsters.**
+
 ### 5. Receive Mutants
 M^3 returns 1 or more mutants using a multipliers as explained above.
 The minting selection process will be fully random. 1:10 (10%) of mine-minted mutants will be Alphas.
-Congratulations: You are the legal owner and guardina of freshly minted Mutant Monsters!
 
 **1:10 of mutants will be Alphas, the rest whatever rarity the powers of randomness will provide.**
  
