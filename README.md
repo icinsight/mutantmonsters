@@ -1,10 +1,10 @@
 
-![A Blazing Diamond Alpha](https://images-ext-2.discordapp.net/external/yOjuTfpxNVAhqqNlXqg2ohFbTU9SLGCFDKQWl9ZGKYQ/https/storage.opensea.io/0x3910d4afdf276a0dc8af632ccfceccf5ba04a3b7/723-1572824995.png)
-
 # Mutant Monsters
 Everything relevant, technical, and related to Mutant Monsters
 
 Website: https://mutant-monsters.com
+
+![Mutant making in Progress](https://live.staticflickr.com/5490/9326603801_785a6fd783_b.jpg)
 
 ## Mutant Mining
 
@@ -28,7 +28,7 @@ Check the process using Etherscan and OpenSea
 - Your tokens going to M^3: https://etherscan.io/address/0x5b4eec7fa30fe4e8199f85440e72a5bed432aab2#tokentxns
 - The M^3 minting your new Mutants: https://etherscan.io/address/0x3910d4afdf276a0dc8af632ccfceccf5ba04a3b7
 - Your new Mutants in OpenSea: https://opensea.io/recent/mutantmonsters
-![A Blazing Diamond Alpha](https://images-ext-2.discordapp.net/external/yOjuTfpxNVAhqqNlXqg2ohFbTU9SLGCFDKQWl9ZGKYQ/https/storage.opensea.io/0x3910d4afdf276a0dc8af632ccfceccf5ba04a3b7/723-1572824995.png)
+
 It all worked? **Congratulations: You are the legal owner and guardian of freshly minted Mutant Monsters.**
 
 ### 5. Receive Mutants
@@ -37,5 +37,4 @@ The minting selection process will be fully random. 1:10 (10%) of mine-minted mu
 
 **1:10 of mutants will be Alphas, the rest whatever rarity the powers of randomness will provide.**
  
-![Mutant making in Progress](https://live.staticflickr.com/5490/9326603801_785a6fd783_b.jpg)
-
+![Mutant mined using 0xBitcoin](https://media.discordapp.net/attachments/414664710210846722/640720559918809098/unknown.png?width=1266&height=677)
