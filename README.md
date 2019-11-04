@@ -1,14 +1,11 @@
-
 # Mutant Monsters
 Everything relevant, technical, and related to Mutant Monsters
 
 Website: https://mutant-monsters.com
 
-![Mutant making in Progress](https://live.staticflickr.com/5490/9326603801_785a6fd783_b.jpg)
+# Mutant Mining
 
-## Mutant Mining
-
-#### Mutant mining how-to:
+## Mutant Mining How-To:
 
 ### 1. Get mineable ERC20 tokens.
 
@@ -21,7 +18,7 @@ Website: https://mutant-monsters.com
 - KIWI: 100,000 / 200,000 / 300,000 etc. KIWI for 1 / 2 / 3 etc. mutants
 
 ### 3. Send tokens
-Send tokens to Mutant Mining Machine (a.k.a. M^3) in ETH address `0x5B4eec7FA30fe4e8199F85440E72A5bED432aab2`
+Send tokens to **Mutant Mining Machine** (a.k.a. **M^3**) in ETH address `0x5B4eec7FA30fe4e8199F85440E72A5bED432aab2`
 
 ### 4. Check the process
 Check the process using Etherscan and OpenSea
@@ -33,7 +30,8 @@ It all worked? **Congratulations: You are the legal owner and guardian of freshl
 
 ### 5. Receive Mutants
 M^3 returns 1 or more mutants using a multipliers as explained above.
-The minting selection process will be fully random. 1:10 (10%) of mine-minted mutants will be Alphas.
+
+The minting selection process will be fully random. 1:10 (10%) of mine-minted mutants will be Alphas with a special halo!
 
 **1:10 of mutants will be Alphas, the rest whatever rarity the powers of randomness will provide.**
  
