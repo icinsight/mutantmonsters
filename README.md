@@ -3,17 +3,17 @@ Everything relevant, technical, and related to Mutant Monsters
 
 Website: https://mutant-monsters.com
 
-# Mutant Mining
+## Mutant Mining How-To
 
-## Mutant Mining How-To:
+How to mine-mint mutants:
 
-### 1. Get mineable ERC20 tokens.
+### 1. Get mineable ERC20 tokens
 
 0xBitcoin or KIWI tokens are supported now.
 - 0xBitcoins needed = 15.00
 - KIWI tokens needed = 100,000.00
 
-### 2. Use full multipliers:
+### 2. Use full multipliers
 - 0xBitcoin: 30 / 45 / 60 / 75 etc. 0xBitcoin for 2 / 3 / 4 / 5 etc. mutants
 - KIWI: 100,000 / 200,000 / 300,000 etc. KIWI for 1 / 2 / 3 etc. mutants
 
