@@ -14,11 +14,11 @@ Mutant mining how-to:
 - KIWI tokens needed = 100,000.00
 
 ### 2. Use full multipliers:
-0xBitcoin: 30 / 45 / 60 / 75 etc. 0xBitcoin for 2 / 3 / 4 / 5 etc. mutants
-KIWI: 100,000 / 200,000 / 300,000 etc. KIWI for 1 / 2 / 3 etc. mutants
+- 0xBitcoin: 30 / 45 / 60 / 75 etc. 0xBitcoin for 2 / 3 / 4 / 5 etc. mutants
+- KIWI: 100,000 / 200,000 / 300,000 etc. KIWI for 1 / 2 / 3 etc. mutants
 
 ### 3. Send tokens
-Send tokens to Mutant Mining Machine (a.k.a. M^3) in ETH address 0x5B4eec7FA30fe4e8199F85440E72A5bED432aab2
+Send tokens to Mutant Mining Machine (a.k.a. M^3) in ETH address `0x5B4eec7FA30fe4e8199F85440E72A5bED432aab2`
 
 ### 4. Check the process
 Check the process using Etherscan and OpenSea
@@ -34,3 +34,5 @@ The minting selection process will be fully random. 1:10 (10%) of mine-minted mu
 
 **1:10 of mutants will be Alphas, the rest whatever rarity the powers of randomness will provide.**
  
+![Mutant making in Progress](https://live.staticflickr.com/5490/9326603801_785a6fd783_b.jpg)
+
