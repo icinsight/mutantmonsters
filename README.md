@@ -9,13 +9,15 @@ How to mine-mint mutants:
 
 ### 1. Get mineable ERC20 tokens
 
-0xBitcoin or KIWI tokens are supported now.
+0xBitcoin, KIWI tokens, and WETH are supported now.
 - 0xBitcoins needed = 15.00
 - KIWI tokens needed = 100,000.00
+- WETH needed = 0.01
 
 ### 2. Use full multipliers
 - 0xBitcoin: 30 / 45 / 60 / 75 etc. 0xBitcoin for 2 / 3 / 4 / 5 etc. mutants
 - KIWI: 100,000 / 200,000 / 300,000 etc. KIWI for 1 / 2 / 3 etc. mutants
+- WETH: 0.01 / mutant * multipliers, etc.
 
 ### 3. Send tokens
 Send tokens to **Mutant Mining Machine** (a.k.a. **M^3**) in ETH address `0x5B4eec7FA30fe4e8199F85440E72A5bED432aab2`
