@@ -10,9 +10,9 @@ How to mine-mint mutants:
 ### 1. Get mineable ERC20 tokens
 
 0xBitcoin, KIWI tokens, and WETH are supported now.
-- 0xBitcoins needed = 15.00
-- KIWI tokens needed = 100,000.00
-- WETH needed = 0.01
+- 0xBitcoins needed = 15.00 (special badge and random special halo for Alphas)
+- KIWI tokens needed = 100,000.00 (special badge and special halo for Alphas)
+- WETH needed = 0.01 (no badge or halo)
 
 ### 2. Use full multipliers
 - 0xBitcoin: 30 / 45 / 60 / 75 etc. 0xBitcoin for 2 / 3 / 4 / 5 etc. mutants
