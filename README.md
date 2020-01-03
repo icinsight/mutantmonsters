@@ -35,7 +35,7 @@ M^3 returns 1 or more mutants using a multipliers as explained above.
 
 The minting selection process will be fully random. 1:10 (10%) of mine-minted mutants will be Alphas with a special halo!
 
-**1:10 of mutants will be Alphas, the rest whatever rarity the powers of randomness will provide.**
+**1:10 of mutants will be Alphas, the rest whatever the powers of randomness will provide.**
  
 ![Mutant mined using 0xBitcoin](https://media.discordapp.net/attachments/414664710210846722/640720559918809098/unknown.png?width=1266&height=677)
 
