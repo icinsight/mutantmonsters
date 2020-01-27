@@ -21,6 +21,7 @@ How to mine-mint mutants:
 
 ### 3. Send tokens
 Send tokens to **Mutant Mining Machine** (a.k.a. **M^3**) in ETH address `0x5B4eec7FA30fe4e8199F85440E72A5bED432aab2`
+or ENS name `mining.mutantmonsters.eth`(see https://app.ens.domains/name/mining.mutantmonsters.eth)
 
 ### 4. Check the process
 Check the process using Etherscan and OpenSea
