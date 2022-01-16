@@ -4,7 +4,7 @@
 
 ### 1.1. Monster Mash
 
-The intial distribution was done in three giveaways in 2019. Users signed up in discord.
+The intial distribution was done in three giveaways in 2019. Users signed up in Discord.
 
 The first one was the Halloween giveaway. Each signed up user got a new Mutant every day during the week of October 27 or so.
 
@@ -30,3 +30,7 @@ https://github.com/icinsight/mutantmonsters
 ## 3. Auto-Breeding
 
 There was an automated daily draw that generated new mutant generations to existing mutants. Each day 5-10 Mutants were minted and 1 or 2 of them were so-called Alphas, i.e., characters that did not exist before in any format.
+
+# Community Art
+
+## To be written ...
