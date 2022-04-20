@@ -1,3 +1,5 @@
+# THIS PAGE EXISTS FOR HISTORICAL REFERENCE ONLY
+
 # Mutant Monsters
 Everything relevant, technical, and related to Mutant Monsters
 
